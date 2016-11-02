@@ -6,7 +6,7 @@ Images can be added in-line as a reStructured text substitution, but will not re
 
 --->
 
-#Quick Start name
+#Atmosphere Quick Start
 <!---
 Use short, imperative titles e.g. Upload and share data, uploading and sharing data
 --->
@@ -32,7 +32,7 @@ A few sentences (50 words or less) describing the ultimate goal of the steps in 
 |------------|-----------------|-------------|
 |CyVerse account|You will need a CyVerse account to complete this exercise|[Register](https://user.cyverse.org/)|
 |Atmosphere access|You must have access to Atmosphere|[Request Access](http://www.cyverse.org/learning-center/manage-account#AddAppsServices)|
-|Cyberduck|Standalone software for upload/download to Data Store|[Download](https://cyberduck.io/)|
+
 
 ### Platform(s)
 
@@ -40,11 +40,8 @@ A few sentences (50 words or less) describing the ultimate goal of the steps in 
 
 |Platform|Interface|Link|Platform Documentation|Quick Start|
 |--------|---------|----|----------------------|-----------|
-|Discovery Environment|Web/Point-and-click|[Discovery Environment](https://de.iplantcollaborative.org)|[Manual](https://wiki.cyverse.org/wiki/display/DEmanual/Table+of+Contents)|[Quick Start]()
 |Atmosphere|Command-line (ssh) and/or Desktop (VNC)|[Atmosphere](https://atmo.cyverse.org)|[Manual](https://wiki.cyverse.org/wiki/display/atmman/Atmosphere+Manual+Table+of+Contents)|[Quick Start]()|
-|BisQue|Web/Point-and-click and/or Command-line (API)|[BisQue](http://bisque.iplantcollaborative.org/client_service)|[Manual](https://wiki.cyverse.org/wiki/display/BIS)|[Quick Start]()|
-|DNA Subway|Web/Point-and-click|[DNA Subway](http://dnasubway.iplantcollaborative.org/)|[Manual](http://dnasubway.iplantcollaborative.org/files/pdf/DNA_Subway_Guide.pdf)|[Quick Start]()|
-|Agave API|Command-line (API)|[Agave API](https://agaveapi.co)|[Live Docs](https://agaveapi.co)|[Quick Start]()|
+
 
 ### Input and example data
 
